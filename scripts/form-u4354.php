@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Tin Nhắn cá nhân Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => 'untitled-2.html',
+	'success_redirect' => 'index.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
