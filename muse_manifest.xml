@@ -1,8 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huu.com" resolutions="1x" timestamp="1496973500329">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huu.com" resolutions="1x" timestamp="1497053873445">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3948741586" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="250214336" seo="true" mt="1497044188168" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="306570325" ref="index"/>
-    <file name="index.css" crc="103293918" ref="index"/>
+    <file name="index.css" crc="236653700" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -10,13 +16,13 @@
     <file name="fontawesome-webfont.svg" crc="3771442179"/>
   </folder>
   <folder name="assets">
-    <file name="nhạc-thiền-giúp-thư-giản-tĩnh-tâm.mp3" crc="82255501" seo="true" mt="1496870284000"/>
+    <file name="tuyển-tập-nhạc-thiền-phật-giáo-hay-nhất.mp3" crc="344127987" seo="true" mt="1497046459000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tablet>index"/>
+    <file name="museutils.js" crc="4232573551" ref="index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tablet>index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:tablet>index"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
     <file name="webpro.js" crc="3770351119" ref="index"/>
     <file name="form_check.php" crc="3841221102" ref="index"/>
@@ -26,10 +32,10 @@
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
     <file name="touchswipe.js" crc="3912873526" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:tablet>index"/>
     <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:tablet>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="form-u4354.php" crc="4224161750" ref="index"/>
   </folder>
@@ -165,7 +171,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="34007290602_0fa81e8600_o.jpg" crc="323486738" seo="true" ref="index">
+    <file name="34007290602_0fa81e8600_o.jpg" crc="323486738" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -173,25 +179,25 @@
       <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="34635699385_71fb7cda46_o.jpg" crc="456054674" seo="true" ref="index">
+    <file name="34635699385_71fb7cda46_o.jpg" crc="456054674" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="34167162153_1103b8f569_o.jpg" crc="427756488" seo="true" ref="index">
+    <file name="34167162153_1103b8f569_o.jpg" crc="427756488" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="33780134780_e20ed2160e_o.png" crc="500717388" seo="true" ref="index">
+    <file name="33780134780_e20ed2160e_o.png" crc="500717388" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="33478677495_30015a50cf_o.png" crc="4203420121" seo="true" ref="index">
+    <file name="33478677495_30015a50cf_o.png" crc="4203420121" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -206,7 +212,6 @@
       <caption webpage="untitled-2" alt=""/>
     </file>
     <file name="33570275466_d323b6c4ff_o.png" crc="126299681" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-2" alt=""/>
@@ -225,15 +230,15 @@
       <caption webpage="untitled-2" alt=""/>
     </file>
     <file name="u4533-4.png" crc="32278281" ref="index"/>
-    <file name="u769-4.png" crc="3787771501" ref="index"/>
-    <file name="u773-4.png" crc="3905354023" ref="index"/>
-    <file name="u776-4.png" crc="527400527" ref="index"/>
-    <file name="u779-4.png" crc="4148490133" ref="index"/>
-    <file name="u782-4.png" crc="514693765" ref="index"/>
-    <file name="u785-4.png" crc="147164866" ref="index"/>
-    <file name="u788-4.png" crc="3778632989" ref="index"/>
-    <file name="u791-4.png" crc="491624452" ref="index"/>
-    <file name="u794-4.png" crc="4216617820" ref="index"/>
+    <file name="u769-4.png" crc="4162941315" ref="index"/>
+    <file name="u773-4.png" crc="240869502" ref="index"/>
+    <file name="u776-4.png" crc="4068738939" ref="index"/>
+    <file name="u779-4.png" crc="173564877" ref="index"/>
+    <file name="u782-4.png" crc="72290081" ref="index"/>
+    <file name="u785-4.png" crc="4174476243" ref="index"/>
+    <file name="u788-4.png" crc="3937350575" ref="index"/>
+    <file name="u791-4.png" crc="3936297313" ref="index"/>
+    <file name="u794-4.png" crc="389970401" ref="index"/>
     <file name="dsc_0492314x471.jpg" crc="50804854" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
@@ -274,7 +279,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="u4353-4.png" crc="3991027221" ref="index"/>
+    <file name="u4353-4.png" crc="4073401480" ref="index"/>
     <file name="u4363.png" crc="4143955419" ref="index"/>
     <file name="u4363-ferr.png" crc="4192422896" ref="index"/>
     <file name="u4359.png" crc="3834806038" ref="index"/>
@@ -289,13 +294,14 @@
     <file name="flickr-la-gi.jpg" crc="4227036938" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u4908-8.png" crc="145072316" ref="index"/>
+    <file name="u4908-8.png" crc="412784821" ref="index"/>
     <file name="u4922-4.png" crc="118807907" ref="index"/>
     <file name="u4929-4.png" crc="4212655523" ref="index"/>
     <file name="u4954-4.png" crc="3935858953" ref="index"/>
     <file name="u4942-4.png" crc="76344588" ref="index"/>
     <file name="u4946-4.png" crc="4276271007" ref="index"/>
     <file name="u4934-4.png" crc="3983335630" ref="index"/>
+    <file name="untitled-2.swf" crc="3935785329" ref="index"/>
   </folder>
-  <file name="index.html" crc="319106271" seo="true" mt="1496973416982" redirect="true"/>
+  <file name="index.html" crc="503331687" seo="true" mt="1497053525310" redirect="true"/>
 </manifest>

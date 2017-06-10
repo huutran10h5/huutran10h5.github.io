@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://huu.com/index.html</loc>
-    <lastmod>2017-06-09</lastmod>
+    <lastmod>2017-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -40,21 +40,6 @@
     </image:image>
     <image:image>
       <image:loc>http://huu.com/images/dsc_19461314x471.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huu.com/images/34007290602_0fa81e8600_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huu.com/images/34635699385_71fb7cda46_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huu.com/images/34167162153_1103b8f569_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huu.com/images/33780134780_e20ed2160e_o.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huu.com/images/33478677495_30015a50cf_o.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://huu.com/images/33570275466_d323b6c4ff_o.png</image:loc>
@@ -97,8 +82,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://huu.com/assets/nh%E1%BA%A1c-thi%E1%BB%81n-gi%C3%BAp-th%C6%B0-gi%E1%BA%A3n-t%C4%A9nh-t%C3%A2m.mp3</loc>
-    <lastmod>2017-06-08</lastmod>
+    <loc>http://huu.com/assets/tuy%E1%BB%83n-t%E1%BA%ADp-nh%E1%BA%A1c-thi%E1%BB%81n-ph%E1%BA%ADt-gi%C3%A1o-hay-nh%E1%BA%A5t.mp3</loc>
+    <lastmod>2017-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
